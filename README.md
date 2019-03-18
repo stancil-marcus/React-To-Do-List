@@ -1,0 +1,1 @@
+This a ToDo app I created in React. A user simply adds a todo onto the list after entering the todo. Once they have completed their task and wish to erase the todo, they just click the minus button next to the todo. The CCS makes the list look like its an actual line paper (college ruled).
